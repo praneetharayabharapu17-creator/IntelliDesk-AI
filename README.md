@@ -34,7 +34,7 @@ The application uses three main custom objects:
 * Department
 * Helpdesk Ticket
 
-Relationships:
+### Relationships
 
 ```text
 Employee
@@ -135,13 +135,9 @@ Department
 Helpdesk Ticket
     │
     ├── Department Auto-Fill
-    │
     ├── Technician Assignment
-    │
     ├── Priority Automation
-    │
     ├── Resolution Tracking
-    │
     └── Email Notification
 
 Agentforce
@@ -168,43 +164,4 @@ Agentforce ticket creation was also tested using Salesforce Employee and Departm
 
 ### Home Page
 
-![IntelliDesk Home](screenshots/INTELLIDESK_HOME.png)
-
-### Employee Record
-
-![Employee Record](screenshots/EMPLOYEE_RECORD.png)
-
-### Department Record
-
-![Department Record](screenshots/DEPARTMENT_RECORD.png)
-
-### Helpdesk Ticket
-
-![Helpdesk Ticket](screenshots/HELPDESK_TICKET_RECORD.png)
-
-### Flows
-
-![Flows](screenshots/FLOWS_INTELLIDESKAI.png)
-
-### Agentforce
-
-![Agentforce](screenshots/INTELLIDESK_AGENT.png)
-
-### Agentforce Conversation
-
-![Agentforce Conversation](screenshots/AGENT_SUMMARY.png)
-
-## Future Enhancements
-
-* Knowledge-base integration
-* AI-powered ticket classification
-* Automatic suggested resolutions
-* SLA monitoring
-* Escalation automation
-* Advanced service analytics
-
-## Project Status
-
-**Completed**
-
-Built as part of the PwC Launchpad Salesforce learning and project experience.
+![Int]()
